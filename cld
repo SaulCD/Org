@@ -1,0 +1,23 @@
+[33mcommit 32ef9fdca3874ad3dd06aac11ea530e4269e8705[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Saul Carrillo <scd040725@hotmail.com>
+Date:   Tue May 2 21:42:30 2023 -0600
+
+    se creo la vista del formuario todavia falta crear poner la cracion de texto para el formulario pero me que de en la clase 3 en el primer video
+
+[33mcommit c4cea1ca96395d4bba2b68613b9b6a1d5d116388[m
+Author: Saul Carrillo <scd040725@hotmail.com>
+Date:   Mon Apr 24 12:55:29 2023 -0600
+
+    HOY se aprendio como funcionan los componentes y las ventajas de usarlos para poder desarrollar sitios web en react
+
+[33mcommit c4c4540f1982f62d48661918932a81c2848f18d2[m
+Author: Saul Carrillo <scd040725@hotmail.com>
+Date:   Tue Apr 18 13:51:35 2023 -0600
+
+    empezando a desarrollar con react
+
+[33mcommit 46f22ef2fe57d73b5234a725b508710dd8587ade[m
+Author: Saul Carrillo <scd040725@hotmail.com>
+Date:   Tue Apr 18 13:36:18 2023 -0600
+
+    Initialize project using Create React App
