@@ -1,8 +1,10 @@
 import "./CampoTextoForm.css"
-const CapoTexto = () =>{
+const CapoTexto = (props) =>{
+    console.log("datos: ", props.titulo)
+    const MoodificadorPlaceholder = `${props.placeholder}...`
     return <div className="campo-texto">
-        <label >Nombre</label>
-        <input placeholder="Ingresa el nombre"/>
+        <label >{props.titulo}</label>
+        <input placeholder={MoodificadorPlaceholder}/>
     </div>
 }
 

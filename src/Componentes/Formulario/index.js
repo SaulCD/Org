@@ -5,9 +5,9 @@ const Formulario = () =>{
     return <section className="formulario"> 
     <form>
         <h2>Rellena el formulario para crear el colaborador.</h2>
-        <CapoTexto />
-        <CapoTexto/>
-        <CapoTexto/>
+        <CapoTexto titulo="Nombre" placeholder="Ingresar nombre" />
+        <CapoTexto titulo="Puesto" placeholder="Ingresar puesto" />
+        <CapoTexto titulo="Foto" placeholder="Ingresar enlace de foto" />
     </form>
     </section>
 }
