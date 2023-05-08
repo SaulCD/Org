@@ -11,6 +11,7 @@ const ListaOpcciones = () =>{
     "Móvil",
     "Innovación y Gestión"
 ]
+
     return <div className="lista-opcciones">
         <label>Equipo</label>
         <select>
