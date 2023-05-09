@@ -4,7 +4,7 @@ const CapoTexto = (props) =>{
     const MoodificadorPlaceholder = `${props.placeholder}...`
     return <div className="campo-texto">
         <label >{props.titulo}</label>
-        <input placeholder={MoodificadorPlaceholder}/>
+        <input placeholder={MoodificadorPlaceholder} required={props.required}/>
     </div>
 }
 

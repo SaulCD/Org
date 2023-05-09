@@ -2,13 +2,14 @@
 import './App.css';
 import Header from './Componentes/Header/Header';
 import Formulario from './Componentes/Formulario';
-console.log(Header);
+import MiOrg from './Componentes/MiOrg';
 
 function App() {
   return (
     <div className="App">
       <Header/>
       <Formulario/>
+      <MiOrg/>
     </div>
   );
 }
